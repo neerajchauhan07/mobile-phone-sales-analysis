@@ -116,18 +116,14 @@ Add your actual files to the repository and adjust the filenames above to match 
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your dashboard pages to the `screenshots/` folder, then embed them here. For example:
-
-```markdown
 ### Sales Overview
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](screenshots/Sales-Overview.png)
 
 ### Customer & Market Insights
-![Customer & Market Insights](screenshots/customer-market-insights.png)
+![Customer & Market Insights](screenshots/Customers-and-Market-Insights.png)
 
 ### Key Findings
-![Key Findings](screenshots/key-findings.png)
-```
+![Key Findings](screenshots/Key-findings.png)
 
 ## 📈 Learning Outcomes
 
