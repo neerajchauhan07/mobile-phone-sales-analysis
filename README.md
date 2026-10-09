@@ -117,13 +117,13 @@ Add your actual files to the repository and adjust the filenames above to match 
 ## 📷 Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](screenshots/Sales-Overview.png)
+![Sales Overview](Screenshots/Sales-Overview.png)
 
 ### Customer & Market Insights
-![Customer & Market Insights](screenshots/Customers-and-Market-Insights.png)
+![Customer & Market Insights](Screenshots/Customers-and-Market-Insights.png)
 
 ### Key Findings
-![Key Findings](screenshots/Key-findings.png)
+![Key Findings](Screenshots/Key-findings.png)
 
 ## 📈 Learning Outcomes
 
@@ -135,7 +135,7 @@ Through this project, I practiced:
 
 ## 👤 Author
 
-**Your Name**
+**Neeraj Chauhan**
 
 Aspiring Data Analyst | Excel • SQL • Power BI
 
